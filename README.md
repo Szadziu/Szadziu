@@ -1,5 +1,3 @@
-![FrontendBanner](https://user-images.githubusercontent.com/73105872/141659138-5a43ef75-dc45-4b27-8017-4a37c39531cd.png)
-
 ### Hi there 👋, my name is Maciej
 #### Design & Development
 I am what I am
