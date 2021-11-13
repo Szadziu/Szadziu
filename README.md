@@ -2,6 +2,7 @@
 
 <!--
 **Szadziu/Szadziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FrontendBanner](https://user-images.githubusercontent.com/73105872/141658852-6c182383-34e2-431b-8856-8efdffe07ade.png)
 
 Here are some ideas to get you started:
 
