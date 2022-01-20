@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Maciej
 #### Design & Development
-I am what I am
+
 
 Skills: HTML / CSS / JS / REACT 
 
-- 🌱 I’m currently learning typescript 
+- 🌱 I’m currently learning typescript,react-redux, react-query
 - 📫 How to reach me: mcj.mikolajczak@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Szadziu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mcjMik)  
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=szadziu&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=szadziu&theme=blue-green)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=szadziu&theme=blue-green)](https://github.com/szadziu)
 
