@@ -2,9 +2,9 @@
 #### Design & Development
 
 
-Skills: HTML / CSS / JS / REACT 
+Skills: HTML / CSS / JS / VUE 
 
-- 🌱 I’m currently learning typescript,react-redux, react-query
+- 🌱 I’m currently learning vue, vuex, vue-router
 - 📫 How to reach me: mcj.mikolajczak@gmail.com 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=szadziu&theme=blue-green)](https://github.com/szadziu)
