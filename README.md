@@ -2,7 +2,7 @@
 #### Design & Development
 
 
-Skills: HTML / CSS / JS / VUE 
+Skills: HTML / CSS / JS / VUE / REACT
 
 - 🌱 I’m currently learning vue, vuex, vue-router
 - 📫 How to reach me: mcj.mikolajczak@gmail.com 
