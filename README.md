@@ -3,7 +3,7 @@ I create applications as a junior frontend developer. Every day I expand my know
 
 ## Skills
 
-:star: HTML / CSS / Javascript / React / Vue / Git / Npm
+:star: HTML / CSS / Sass / Javascript / React / Vue / Git / Npm
 
 :book: Typescript / Next / GraphQL / Apollo
 
