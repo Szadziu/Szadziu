@@ -3,9 +3,9 @@ I create applications as a junior frontend developer. Every day I expand my know
 
 ## Skills
 
-:star2: HTML / CSS / Javascript / React / Vue / Git / Npm
+:star: HTML / CSS / Javascript / React / Vue / Git / Npm
 
-:star: Typescript / Next / GraphQL / Apollo
+:book: Typescript / Next / GraphQL / Apollo
 
 :fire:  <img src="https://www.codewars.com/users/Szadziu/badges/small" />
 
