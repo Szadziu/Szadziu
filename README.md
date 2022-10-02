@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Maciej
-#### Design & Development
+## About me
+I create applications as a junior frontend developer. Every day I expand my knowledge in the fields of IT, getting to know better and better solutions, to be at least a slightly better version of myself the next day. Privately, I am a happy husband and father who likes board games.
 
+## Skills
 
-Skills: HTML / CSS / JS / VUE / REACT
+:star2: HTML / CSS / Javascript / React / Vue / Git / Npm
 
-- 🌱 I’m currently learning vue, vuex, vue-router
-- 📫 How to reach me: mcj.mikolajczak@gmail.com 
-<img src="https://www.codewars.com/users/Szadziu/badges/small" />
+:star: Typescript / Next / GraphQL / Apollo
+
+:fire:  <img src="https://www.codewars.com/users/Szadziu/badges/small" />
+
+## Contact
+📫 mcj.mikolajczak@gmail.com 
+
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=szadziu&theme=blue-green)](https://github.com/szadziu)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=szadziu&theme=blue-green)
