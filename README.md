@@ -5,12 +5,13 @@ I create applications as a frontend developer. Every day I expand my knowledge i
 
 :star: HTML / CSS / Sass / Javascript / React / Vue / Git / Npm
 
-:book: Typescript / Next / GraphQL / Apollo
+:book: Typescript / Next / GraphQL / Apollo / Bubble
 
 :fire:  <img src="https://www.codewars.com/users/Szadziu/badges/small" />
 
 ## Contact
-📫 mcj.mikolajczak@gmail.com 
+📫 mcj.mikolajczak@gmail.com \
+🌐 https://szadziu.github.io/portfolio
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=szadziu&theme=blue-green)](https://github.com/szadziu)
