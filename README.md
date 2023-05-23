@@ -5,9 +5,12 @@ I create applications as a frontend developer. Every day I expand my knowledge i
 
 :star: HTML / CSS / Sass / Javascript / React / Vue / Git / Npm
 
-:book: Typescript / Next / GraphQL / Apollo / Bubble
+:book: Typescript / Next
 
 :fire:  <img src="https://www.codewars.com/users/Szadziu/badges/small" />
+
+## Blog
+📝 https://www.4spacje.pl
 
 ## Contact
 📫 mcj.mikolajczak@gmail.com \
