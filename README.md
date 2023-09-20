@@ -17,7 +17,3 @@ I create applications as a frontend developer. Every day I expand my knowledge i
 🌐 https://szadziu.github.io/portfolio
 
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=szadziu&theme=blue-green)](https://github.com/szadziu)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=szadziu&theme=blue-green)
-
-
