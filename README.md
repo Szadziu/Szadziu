@@ -3,9 +3,9 @@ I create applications as a frontend developer. Every day I expand my knowledge i
 
 ## Skills
 
-:star: HTML / CSS / Sass / Javascript / React / Vue / Git / Npm
+:star: HTML / CSS / Sass / Javascript / Typescript / Vue / React / Git / Npm
 
-:book: Typescript / Next
+:book: PHP
 
 :fire:  <img src="https://www.codewars.com/users/Szadziu/badges/small" />
 
